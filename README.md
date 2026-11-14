@@ -2,12 +2,12 @@
 
 A full-stack web application built to streamline fitness center operations—covering member subscriptions, trainer allocation, workouts, inventory, and payment processing.
 
-> **Project Context:** Originally built as a Year 2 Semester 2 group project at SLIIT (mirrored from [Pethmin09/gym-management-system](https://github.com/Pethmin09/gym-management-system))[cite: 15].
+> **Project Context:** Originally built as a Year 1 Semester 2 (Y1S2) group project at SLIIT (mirrored from [Pethmin09/gym-management-system](https://github.com/Pethmin09/gym-management-system)).
 
 ## Tech Stack
 
-* **Frontend:** React, JavaScript, HTML5, CSS3[cite: 15]
-* **Backend:** Java, Spring Boot, REST APIs[cite: 15]
+* **Frontend:** React, JavaScript, HTML5, CSS3
+* **Backend:** Java, Spring Boot, REST APIs
 * **Database:** MySQL / MSSQL
 * **Tools:** Git, Maven, npm, Cursor, Postman
 
